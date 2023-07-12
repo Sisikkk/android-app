@@ -35,6 +35,7 @@ import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupWithNavController
 import net.ivpn.core.IVPNApplication
 import net.ivpn.core.R
+import net.ivpn.core.common.extension.navigate
 import net.ivpn.core.databinding.FragmentAntitrackerBinding
 import net.ivpn.core.v2.MainActivity
 import net.ivpn.core.v2.viewmodel.AntiTrackerViewModel
@@ -72,6 +73,11 @@ class AntiTrackerFragment: Fragment() {
         }
     }
 
+    override fun onResume() {
+        super.onResume()
+        antiTracker.reset()
+    }
+
     private fun initViews() {
         binding.contentLayout.antitracker = antiTracker
         binding.contentLayout.readMoreAntitracker.setOnClickListener {
@@ -79,6 +85,10 @@ class AntiTrackerFragment: Fragment() {
         }
         binding.contentLayout.readMoreHardcore.setOnClickListener {
             readMoreHardcore()
+        }
+        binding.contentLayout.changeAntiTracker.setOnClickListener {
+            val action = AntiTrackerFragmentDirections.actionAntiTrackerFragmentToAntiTrackerListFragment()
+            navigate(action)
         }
     }
 
@@ -91,13 +101,13 @@ class AntiTrackerFragment: Fragment() {
 
     private fun readMore() {
         val openURL = Intent(Intent.ACTION_VIEW)
-        openURL.data = Uri.parse("https://www.ivpn.net/antitracker")
+        openURL.data = Uri.parse("https://www.ivpn.net/knowledgebase/antitracker/blocklists/")
         startActivity(openURL)
     }
 
     private fun readMoreHardcore() {
         val openURL = Intent(Intent.ACTION_VIEW)
-        openURL.data = Uri.parse("https://www.ivpn.net/antitracker/hardcore")
+        openURL.data = Uri.parse("https://www.ivpn.net/knowledgebase/general/antitracker-faq/")
         startActivity(openURL)
     }
 }
