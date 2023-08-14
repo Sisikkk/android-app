@@ -18,7 +18,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 36.24,
+          "load": 21.54,
           "multihop_port": 23810,
           "v2ray": "37.120.130.61"
         },
@@ -31,7 +31,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 63.85,
+          "load": 61.66,
           "multihop_port": 27001,
           "v2ray": "89.47.234.130"
         },
@@ -44,7 +44,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 18.34,
+          "load": 13.76,
           "multihop_port": 20480,
           "v2ray": "217.138.213.178"
         },
@@ -57,7 +57,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 7.25,
+          "load": 8.45,
           "multihop_port": 20490,
           "v2ray": "217.138.213.42"
         },
@@ -70,7 +70,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 12.65,
+          "load": 14.72,
           "multihop_port": 20530,
           "v2ray": "91.245.254.178"
         },
@@ -83,7 +83,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 52.27,
+          "load": 12.71,
           "multihop_port": 20510,
           "v2ray": "91.245.254.170"
         },
@@ -96,7 +96,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 29.07,
+          "load": 47.21,
           "multihop_port": 20520,
           "v2ray": "91.245.254.162"
         }
@@ -120,7 +120,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 29.12,
+          "load": 12.86,
           "multihop_port": 23610,
           "v2ray": "141.255.164.71"
         },
@@ -133,7 +133,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 32.12,
+          "load": 28.89,
           "multihop_port": 23601,
           "v2ray": "37.120.213.138"
         },
@@ -146,7 +146,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 65.27,
+          "load": 59.98,
           "multihop_port": 22901,
           "v2ray": "179.43.167.66"
         }
@@ -170,7 +170,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 58.89,
+          "load": 36.17,
           "multihop_port": 23010,
           "v2ray": "185.102.219.56"
         },
@@ -183,7 +183,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 14.09,
+          "load": 31.75,
           "multihop_port": 22001,
           "v2ray": "178.162.222.166"
         },
@@ -196,7 +196,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 50.84,
+          "load": 20.84,
           "multihop_port": 21050,
           "v2ray": "146.70.160.166"
         }
@@ -220,7 +220,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 88.1,
+          "load": 6.39,
           "multihop_port": 20810,
           "v2ray": "81.92.202.117"
         },
@@ -233,7 +233,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 14.55,
+          "load": 53.68,
           "multihop_port": 20801,
           "v2ray": "185.59.221.159"
         },
@@ -246,7 +246,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 6.88,
+          "load": 7.96,
           "multihop_port": 24201,
           "v2ray": "185.59.221.226"
         }
@@ -270,7 +270,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 11.24,
+          "load": 7.37,
           "multihop_port": 24310,
           "v2ray": "82.102.21.91"
         },
@@ -283,7 +283,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 26.48,
+          "load": 33.44,
           "multihop_port": 21100,
           "v2ray": "84.17.59.146"
         }
@@ -307,7 +307,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 59.32,
+          "load": 29.6,
           "multihop_port": 20301,
           "v2ray": "185.102.218.99"
         },
@@ -320,7 +320,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 15.22,
+          "load": 11.08,
           "multihop_port": 23101,
           "v2ray": "95.211.172.72"
         },
@@ -333,7 +333,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 28.09,
+          "load": 25.06,
           "multihop_port": 23201,
           "v2ray": "95.211.172.99"
         },
@@ -346,7 +346,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 50.21,
+          "load": 26.13,
           "multihop_port": 23901,
           "v2ray": "95.211.187.225"
         },
@@ -359,7 +359,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 62.29,
+          "load": 13.78,
           "multihop_port": 24101,
           "v2ray": "95.211.187.231"
         },
@@ -372,7 +372,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 18.43,
+          "load": 16.12,
           "multihop_port": 22501,
           "v2ray": "95.211.172.107"
         },
@@ -385,7 +385,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 40.32,
+          "load": 56.74,
           "multihop_port": 22801,
           "v2ray": "95.211.198.169"
         }
@@ -409,7 +409,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 39.22,
+          "load": 27.57,
           "multihop_port": 24010,
           "v2ray": "37.120.153.227"
         },
@@ -422,7 +422,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 30.9,
+          "load": 32.73,
           "multihop_port": 24001,
           "v2ray": "80.67.10.139"
         }
@@ -446,7 +446,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 8.22,
+          "load": 10.5,
           "multihop_port": 26110,
           "v2ray": "37.120.151.125"
         },
@@ -459,7 +459,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 65.65,
+          "load": 35.37,
           "multihop_port": 26101,
           "v2ray": "146.70.192.138"
         }
@@ -483,7 +483,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 10.7,
+          "load": 12.79,
           "multihop_port": 22210,
           "v2ray": "185.180.13.38"
         },
@@ -496,7 +496,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 7.18,
+          "load": 9.13,
           "multihop_port": 22201,
           "v2ray": "216.144.236.42"
         },
@@ -521,7 +521,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 12.89,
+          "load": 5.38,
           "multihop_port": 22401,
           "v2ray": "216.144.236.66"
         },
@@ -534,7 +534,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 24.51,
+          "load": 5.6,
           "multihop_port": 21301,
           "v2ray": "198.54.129.212"
         },
@@ -547,7 +547,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 17.2,
+          "load": 7.69,
           "multihop_port": 21901,
           "v2ray": "216.144.237.82"
         }
@@ -571,7 +571,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 9.52,
+          "load": 24.31,
           "multihop_port": 24510,
           "v2ray": "185.93.0.217"
         },
@@ -584,7 +584,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 58.94,
+          "load": 50.58,
           "multihop_port": 24501,
           "v2ray": "96.47.236.98"
         },
@@ -597,7 +597,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 74.67,
+          "load": 19.82,
           "multihop_port": 24810,
           "v2ray": "69.174.102.58"
         }
@@ -621,7 +621,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 9.2,
+          "load": 6.47,
           "multihop_port": 21410,
           "v2ray": "89.187.181.121"
         },
@@ -634,7 +634,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 9.2,
+          "load": 17.82,
           "multihop_port": 21401,
           "v2ray": "72.11.137.154"
         },
@@ -647,7 +647,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 17.68,
+          "load": 11.51,
           "multihop_port": 24901,
           "v2ray": "104.129.31.226"
         }
@@ -671,7 +671,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 12.56,
+          "load": 16.76,
           "multihop_port": 21210,
           "v2ray": "91.132.137.173"
         },
@@ -684,7 +684,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 9.03,
+          "load": 21.01,
           "multihop_port": 21801,
           "v2ray": "212.103.48.199"
         },
@@ -697,7 +697,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 9.69,
+          "load": 35.05,
           "multihop_port": 27601,
           "v2ray": "89.187.178.150"
         }
@@ -721,7 +721,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 15.86,
+          "load": 10.64,
           "multihop_port": 21010,
           "v2ray": "198.55.124.117"
         },
@@ -734,7 +734,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 36.28,
+          "load": 14.36,
           "multihop_port": 21001,
           "v2ray": "96.44.142.234"
         },
@@ -747,7 +747,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 8.08,
+          "load": 17.58,
           "multihop_port": 25001,
           "v2ray": "96.44.144.2"
         }
@@ -771,7 +771,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 57.43,
+          "load": 70.77,
           "multihop_port": 25601,
           "v2ray": "146.70.146.226"
         }
@@ -795,7 +795,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 100,
+          "load": 95.89,
           "multihop_port": 26601,
           "v2ray": "217.138.205.90"
         },
@@ -808,7 +808,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 93.39,
+          "load": 79.87,
           "multihop_port": 27901,
           "v2ray": "146.70.210.26"
         }
@@ -832,7 +832,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 96.48,
+          "load": 100,
           "multihop_port": 25701,
           "v2ray": "37.120.143.130"
         }
@@ -856,7 +856,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 75.49,
+          "load": 72.41,
           "multihop_port": 25901,
           "v2ray": "146.70.53.82"
         }
@@ -880,7 +880,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 37.34,
+          "load": 19.61,
           "multihop_port": 26701,
           "v2ray": "45.162.229.146"
         }
@@ -904,7 +904,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 49.73,
+          "load": 9.6,
           "multihop_port": 20550,
           "v2ray": "38.240.226.169"
         }
@@ -928,7 +928,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 62.65,
+          "load": 13.81,
           "multihop_port": 23801,
           "v2ray": "104.254.90.74"
         },
@@ -941,7 +941,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 33.53,
+          "load": 23.69,
           "multihop_port": 22101,
           "v2ray": "172.86.186.162"
         }
@@ -965,7 +965,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 66.12,
+          "load": 33.87,
           "multihop_port": 25201,
           "v2ray": "195.181.160.184"
         }
@@ -989,7 +989,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 96.92,
+          "load": 54.7,
           "multihop_port": 25501,
           "v2ray": "193.29.107.226"
         }
@@ -1013,7 +1013,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 87.01,
+          "load": 33.27,
           "multihop_port": 21501,
           "v2ray": "185.93.3.196"
         }
@@ -1037,7 +1037,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 61.89,
+          "load": 23.06,
           "multihop_port": 26001,
           "v2ray": "185.103.110.231"
         }
@@ -1061,7 +1061,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 33.88,
+          "load": 65.98,
           "multihop_port": 23401,
           "v2ray": "185.246.211.184"
         }
@@ -1085,9 +1085,9 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 13.18,
+          "load": 12.74,
           "multihop_port": 26901,
-          "v2ray": "89.47.234.130"
+          "v2ray": "89.238.142.2"
         }
       ]
     },
@@ -1109,7 +1109,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 24.88,
+          "load": 46.22,
           "multihop_port": 20540,
           "v2ray": "169.150.252.115"
         }
@@ -1133,7 +1133,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 37.75,
+          "load": 76.78,
           "multihop_port": 27501,
           "v2ray": "64.120.120.237"
         },
@@ -1146,7 +1146,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 20.18,
+          "load": 16.89,
           "multihop_port": 20460,
           "v2ray": "118.107.244.207"
         }
@@ -1170,7 +1170,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 86.19,
+          "load": 100,
           "multihop_port": 25401,
           "v2ray": "37.120.144.178"
         }
@@ -1194,7 +1194,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 66.1,
+          "load": 9.6,
           "multihop_port": 27301,
           "v2ray": "185.191.207.199"
         }
@@ -1242,7 +1242,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 36.91,
+          "load": 32.16,
           "multihop_port": 20830,
           "v2ray": "185.135.77.100"
         }
@@ -1266,7 +1266,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 97.15,
+          "load": 96.84,
           "multihop_port": 27201,
           "v2ray": "92.223.89.228"
         }
@@ -1290,7 +1290,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 6.7,
+          "load": 12.7,
           "multihop_port": 20470,
           "v2ray": "61.4.97.154"
         }
@@ -1312,7 +1312,7 @@
           "public_key": "xFO6ksbO3Gr05rRgAW0O5Veoi4bpTgz2G9RvtBzK7Cg=",
           "local_ip": "172.16.0.1/12",
           "ipv6": {},
-          "load": 30.84,
+          "load": 40.6,
           "multihop_port": 25301,
           "v2ray": "217.170.197.28"
         }
@@ -1360,7 +1360,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 13.03,
+          "load": 13.32,
           "multihop_port": 27101,
           "v2ray": "94.46.175.130"
         }
@@ -1384,7 +1384,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 89.34,
+          "load": 65.14,
           "multihop_port": 22301,
           "v2ray": "185.120.147.58"
         }
@@ -1432,7 +1432,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 49.96,
+          "load": 62.54,
           "multihop_port": 20400,
           "v2ray": "156.146.40.208"
         }
@@ -1450,13 +1450,13 @@
         {
           "hostname": "tw1.wg.ivpn.net",
           "dns_name": "tw1.gw.ivpn.net",
-          "host": "185.189.160.59",
+          "host": "185.189.160.123",
           "public_key": "fMTCCbbKqPp60fkqnaQvJ9mX2r6zBlt7xhUp8sGfJQY=",
           "local_ip": "172.16.0.1/12",
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 7.21,
+          "load": 5.38,
           "multihop_port": 20820,
           "v2ray": "185.189.160.21"
         }
@@ -1480,7 +1480,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 23.74,
+          "load": 16.72,
           "multihop_port": 20450,
           "v2ray": "91.232.28.119"
         }
@@ -1504,9 +1504,33 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 12.77,
+          "load": 6.62,
           "multihop_port": 26401,
           "v2ray": "193.37.254.50"
+        }
+      ]
+    },
+    {
+      "gateway": "us-co.wg.ivpn.net",
+      "country_code": "US",
+      "country": "United States",
+      "city": "Denver, CO",
+      "latitude": 39.749,
+      "longitude": -104.997,
+      "isp": "Datapacket",
+      "hosts": [
+        {
+          "hostname": "us-co1.wg.ivpn.net",
+          "dns_name": "us-co1.gw.ivpn.net",
+          "host": "121.127.44.29",
+          "public_key": "eW3Xf/azDAah8xaM0z5rMxJZkWM6YlWuZsEbMwy9j2Y=",
+          "local_ip": "172.16.0.1/12",
+          "ipv6": {
+            "local_ip": "fd00:4956:504e:ffff::/96"
+          },
+          "load": 7.79,
+          "multihop_port": 20560,
+          "v2ray": "121.127.44.31"
         }
       ]
     },
@@ -1528,7 +1552,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 9.46,
+          "load": 16.67,
           "multihop_port": 24601,
           "v2ray": "96.47.236.98"
         }
@@ -1552,7 +1576,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 40.76,
+          "load": 10.34,
           "multihop_port": 21610,
           "v2ray": "23.226.129.114"
         },
@@ -1565,7 +1589,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 20.11,
+          "load": 20.32,
           "multihop_port": 27401,
           "v2ray": "37.120.202.42"
         }
@@ -1589,7 +1613,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 22.98,
+          "load": 14.84,
           "multihop_port": 26501,
           "v2ray": "185.242.5.146"
         }
@@ -1613,7 +1637,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 57.24,
+          "load": 51.46,
           "multihop_port": 24401,
           "v2ray": "206.190.145.88"
         }
@@ -1637,7 +1661,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 38.43,
+          "load": 43.79,
           "multihop_port": 27701,
           "v2ray": "37.19.206.111"
         }
@@ -1661,7 +1685,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 33.86,
+          "load": 8,
           "multihop_port": 27801,
           "v2ray": "198.44.131.20"
         }
@@ -1685,7 +1709,7 @@
           "ipv6": {
             "local_ip": "fd00:4956:504e:ffff::/96"
           },
-          "load": 20.11,
+          "load": 6.06,
           "multihop_port": 20840,
           "v2ray": "169.150.238.109"
         }
@@ -1706,7 +1730,7 @@
           "hostname": "at1.gw.ivpn.net",
           "dns_name": "at1.gw.ivpn.net",
           "host": "185.244.212.66",
-          "load": 57.43,
+          "load": 70.77,
           "multihop_port": 25601,
           "obfs": {
             "obfs3_multihop_port": 25602,
@@ -1730,7 +1754,7 @@
           "hostname": "au-nsw1.gw.ivpn.net",
           "dns_name": "au-nsw1.gw.ivpn.net",
           "host": "46.102.153.242",
-          "load": 100,
+          "load": 95.89,
           "multihop_port": 26601,
           "obfs": {
             "obfs3_multihop_port": 26602,
@@ -1743,7 +1767,7 @@
           "hostname": "au-nsw2.gw.ivpn.net",
           "dns_name": "au-nsw2.gw.ivpn.net",
           "host": "146.70.78.74",
-          "load": 93.39,
+          "load": 79.87,
           "multihop_port": 27901,
           "obfs": {
             "obfs3_multihop_port": 27902,
@@ -1767,7 +1791,7 @@
           "hostname": "be1.gw.ivpn.net",
           "dns_name": "be1.gw.ivpn.net",
           "host": "194.187.251.10",
-          "load": 96.48,
+          "load": 100,
           "multihop_port": 25701,
           "obfs": {
             "obfs3_multihop_port": 25702,
@@ -1791,7 +1815,7 @@
           "hostname": "bg1.gw.ivpn.net",
           "dns_name": "bg1.gw.ivpn.net",
           "host": "82.102.23.18",
-          "load": 75.49,
+          "load": 72.41,
           "multihop_port": 25901,
           "obfs": {
             "obfs3_multihop_port": 25902,
@@ -1815,7 +1839,7 @@
           "hostname": "br1.gw.ivpn.net",
           "dns_name": "br1.gw.ivpn.net",
           "host": "45.162.229.130",
-          "load": 37.34,
+          "load": 19.61,
           "multihop_port": 26701,
           "obfs": {
             "obfs3_multihop_port": 26702,
@@ -1839,7 +1863,7 @@
           "hostname": "ca-bc1.gw.ivpn.net",
           "dns_name": "ca-bc1.gw.ivpn.net",
           "host": "38.240.226.164",
-          "load": 49.73,
+          "load": 9.6,
           "multihop_port": 20550,
           "obfs": {
             "obfs3_multihop_port": 20551,
@@ -1863,7 +1887,7 @@
           "hostname": "ca-qc1.gw.ivpn.net",
           "dns_name": "ca-qc1.gw.ivpn.net",
           "host": "87.101.92.26",
-          "load": 63.85,
+          "load": 61.66,
           "multihop_port": 27001,
           "obfs": {
             "obfs3_multihop_port": 27002,
@@ -1876,7 +1900,7 @@
           "hostname": "ca-qc2.gw.ivpn.net",
           "dns_name": "ca-qc2.gw.ivpn.net",
           "host": "176.113.74.218",
-          "load": 18.34,
+          "load": 13.76,
           "multihop_port": 20480,
           "obfs": {
             "obfs3_multihop_port": 20481,
@@ -1889,7 +1913,7 @@
           "hostname": "ca-qc3.gw.ivpn.net",
           "dns_name": "ca-qc3.gw.ivpn.net",
           "host": "176.113.74.210",
-          "load": 7.25,
+          "load": 8.45,
           "multihop_port": 20490,
           "obfs": {
             "obfs3_multihop_port": 20491,
@@ -1902,7 +1926,7 @@
           "hostname": "ca-qc4.gw.ivpn.net",
           "dns_name": "ca-qc4.gw.ivpn.net",
           "host": "176.113.74.202",
-          "load": 12.65,
+          "load": 14.72,
           "multihop_port": 20530,
           "obfs": {
             "obfs3_multihop_port": 20531,
@@ -1915,7 +1939,7 @@
           "hostname": "ca-qc5.gw.ivpn.net",
           "dns_name": "ca-qc5.gw.ivpn.net",
           "host": "176.113.74.58",
-          "load": 52.27,
+          "load": 12.71,
           "multihop_port": 20510,
           "obfs": {
             "obfs3_multihop_port": 20511,
@@ -1928,7 +1952,7 @@
           "hostname": "ca-qc6.gw.ivpn.net",
           "dns_name": "ca-qc6.gw.ivpn.net",
           "host": "176.113.74.50",
-          "load": 29.07,
+          "load": 47.21,
           "multihop_port": 20520,
           "obfs": {
             "obfs3_multihop_port": 20521,
@@ -1952,7 +1976,7 @@
           "hostname": "ca1.gw.ivpn.net",
           "dns_name": "ca1.gw.ivpn.net",
           "host": "104.254.90.178",
-          "load": 62.65,
+          "load": 13.81,
           "multihop_port": 23801,
           "obfs": {
             "obfs3_multihop_port": 23802,
@@ -1965,7 +1989,7 @@
           "hostname": "ca2.gw.ivpn.net",
           "dns_name": "ca2.gw.ivpn.net",
           "host": "172.86.186.170",
-          "load": 33.53,
+          "load": 23.69,
           "multihop_port": 22101,
           "obfs": {
             "obfs3_multihop_port": 22102,
@@ -1989,7 +2013,7 @@
           "hostname": "ch1.gw.ivpn.net",
           "dns_name": "ch1.gw.ivpn.net",
           "host": "185.212.170.138",
-          "load": 32.12,
+          "load": 28.89,
           "multihop_port": 23601,
           "obfs": {
             "obfs3_multihop_port": 23602,
@@ -2002,7 +2026,7 @@
           "hostname": "ch3.gw.ivpn.net",
           "dns_name": "ch3.gw.ivpn.net",
           "host": "141.255.166.194",
-          "load": 65.27,
+          "load": 59.98,
           "multihop_port": 22901,
           "obfs": {
             "obfs3_multihop_port": 22902,
@@ -2026,7 +2050,7 @@
           "hostname": "cz1.gw.ivpn.net",
           "dns_name": "cz1.gw.ivpn.net",
           "host": "195.181.160.167",
-          "load": 66.12,
+          "load": 33.87,
           "multihop_port": 25201,
           "obfs": {
             "obfs3_multihop_port": 25202,
@@ -2050,7 +2074,7 @@
           "hostname": "de2.gw.ivpn.net",
           "dns_name": "de2.gw.ivpn.net",
           "host": "178.162.211.114",
-          "load": 14.09,
+          "load": 31.75,
           "multihop_port": 22001,
           "obfs": {
             "obfs3_multihop_port": 22002,
@@ -2063,7 +2087,7 @@
           "hostname": "de3.gw.ivpn.net",
           "dns_name": "de3.gw.ivpn.net",
           "host": "146.70.160.162",
-          "load": 50.84,
+          "load": 20.84,
           "multihop_port": 21050,
           "obfs": {
             "obfs3_multihop_port": 21051,
@@ -2087,7 +2111,7 @@
           "hostname": "dk1.gw.ivpn.net",
           "dns_name": "dk1.gw.ivpn.net",
           "host": "185.245.84.226",
-          "load": 96.92,
+          "load": 54.7,
           "multihop_port": 25501,
           "obfs": {
             "obfs3_multihop_port": 25502,
@@ -2111,7 +2135,7 @@
           "hostname": "es1.gw.ivpn.net",
           "dns_name": "es1.gw.ivpn.net",
           "host": "185.93.3.193",
-          "load": 87.01,
+          "load": 33.27,
           "multihop_port": 21501,
           "obfs": {
             "obfs3_multihop_port": 21502,
@@ -2135,7 +2159,7 @@
           "hostname": "fi1.gw.ivpn.net",
           "dns_name": "fi1.gw.ivpn.net",
           "host": "185.112.82.12",
-          "load": 61.89,
+          "load": 23.06,
           "multihop_port": 26001,
           "obfs": {
             "obfs3_multihop_port": 26002,
@@ -2159,7 +2183,7 @@
           "hostname": "fr1.gw.ivpn.net",
           "dns_name": "fr1.gw.ivpn.net",
           "host": "185.246.211.179",
-          "load": 33.88,
+          "load": 65.98,
           "multihop_port": 23401,
           "obfs": {
             "obfs3_multihop_port": 23402,
@@ -2183,14 +2207,14 @@
           "hostname": "gb-man1.gw.ivpn.net",
           "dns_name": "gb-man1.gw.ivpn.net",
           "host": "89.238.141.228",
-          "load": 13.18,
+          "load": 12.74,
           "multihop_port": 26901,
           "obfs": {
             "obfs3_multihop_port": 26902,
             "obfs4_multihop_port": 26903,
             "obfs4_key": "WuP3pMrsQA+uAC72sV+Y62E1uvOWcnbTNJCmRHXqtWbbYzECF5swu62dzD/JOKoa5t0tGQ"
           },
-          "v2ray": "89.47.234.130"
+          "v2ray": "89.238.142.2"
         }
       ]
     },
@@ -2207,7 +2231,7 @@
           "hostname": "gb1.gw.ivpn.net",
           "dns_name": "gb1.gw.ivpn.net",
           "host": "185.59.221.133",
-          "load": 14.55,
+          "load": 53.68,
           "multihop_port": 20801,
           "obfs": {
             "obfs3_multihop_port": 20802,
@@ -2220,7 +2244,7 @@
           "hostname": "gb2.gw.ivpn.net",
           "dns_name": "gb2.gw.ivpn.net",
           "host": "185.59.221.88",
-          "load": 6.88,
+          "load": 7.96,
           "multihop_port": 24201,
           "obfs": {
             "obfs3_multihop_port": 24202,
@@ -2244,7 +2268,7 @@
           "hostname": "gr1.gw.ivpn.net",
           "dns_name": "gr1.gw.ivpn.net",
           "host": "169.150.252.110",
-          "load": 24.88,
+          "load": 46.22,
           "multihop_port": 20540,
           "obfs": {
             "obfs3_multihop_port": 20541,
@@ -2268,7 +2292,7 @@
           "hostname": "hk2.gw.ivpn.net",
           "dns_name": "hk2.gw.ivpn.net",
           "host": "209.58.188.13",
-          "load": 37.75,
+          "load": 76.78,
           "multihop_port": 27501,
           "obfs": {
             "obfs3_multihop_port": 27502,
@@ -2281,7 +2305,7 @@
           "hostname": "hk3.gw.ivpn.net",
           "dns_name": "hk3.gw.ivpn.net",
           "host": "118.107.244.184",
-          "load": 20.18,
+          "load": 16.89,
           "multihop_port": 20460,
           "obfs": {
             "obfs3_multihop_port": 20461,
@@ -2305,7 +2329,7 @@
           "hostname": "hu1.gw.ivpn.net",
           "dns_name": "hu1.gw.ivpn.net",
           "host": "185.189.114.186",
-          "load": 86.19,
+          "load": 100,
           "multihop_port": 25401,
           "obfs": {
             "obfs3_multihop_port": 25402,
@@ -2329,7 +2353,7 @@
           "hostname": "il1.gw.ivpn.net",
           "dns_name": "il1.gw.ivpn.net",
           "host": "185.191.207.194",
-          "load": 66.1,
+          "load": 9.6,
           "multihop_port": 27301,
           "obfs": {
             "obfs3_multihop_port": 27302,
@@ -2377,7 +2401,7 @@
           "hostname": "it2.gw.ivpn.net",
           "dns_name": "it2.gw.ivpn.net",
           "host": "84.17.59.137",
-          "load": 26.48,
+          "load": 33.44,
           "multihop_port": 21100,
           "obfs": {
             "obfs3_multihop_port": 21101,
@@ -2401,7 +2425,7 @@
           "hostname": "jp2.gw.ivpn.net",
           "dns_name": "jp2.gw.ivpn.net",
           "host": "185.135.77.35",
-          "load": 36.91,
+          "load": 32.16,
           "multihop_port": 20830,
           "obfs": {
             "obfs3_multihop_port": 20831,
@@ -2425,7 +2449,7 @@
           "hostname": "lu1.gw.ivpn.net",
           "dns_name": "lu1.gw.ivpn.net",
           "host": "92.223.89.53",
-          "load": 97.15,
+          "load": 96.84,
           "multihop_port": 27201,
           "obfs": {
             "obfs3_multihop_port": 27202,
@@ -2449,7 +2473,7 @@
           "hostname": "my1.gw.ivpn.net",
           "dns_name": "my1.gw.ivpn.net",
           "host": "61.4.97.148",
-          "load": 6.7,
+          "load": 12.7,
           "multihop_port": 20470,
           "obfs": {
             "obfs3_multihop_port": 20471,
@@ -2473,7 +2497,7 @@
           "hostname": "nl3.gw.ivpn.net",
           "dns_name": "nl3.gw.ivpn.net",
           "host": "95.211.172.68",
-          "load": 15.22,
+          "load": 11.08,
           "multihop_port": 23101,
           "obfs": {
             "obfs3_multihop_port": 23102,
@@ -2486,7 +2510,7 @@
           "hostname": "nl4.gw.ivpn.net",
           "dns_name": "nl4.gw.ivpn.net",
           "host": "95.211.172.95",
-          "load": 28.09,
+          "load": 25.06,
           "multihop_port": 23201,
           "obfs": {
             "obfs3_multihop_port": 23202,
@@ -2499,7 +2523,7 @@
           "hostname": "nl5.gw.ivpn.net",
           "dns_name": "nl5.gw.ivpn.net",
           "host": "95.211.187.222",
-          "load": 50.21,
+          "load": 26.13,
           "multihop_port": 23901,
           "obfs": {
             "obfs3_multihop_port": 23902,
@@ -2512,7 +2536,7 @@
           "hostname": "nl6.gw.ivpn.net",
           "dns_name": "nl6.gw.ivpn.net",
           "host": "95.211.187.228",
-          "load": 62.29,
+          "load": 13.78,
           "multihop_port": 24101,
           "obfs": {
             "obfs3_multihop_port": 24102,
@@ -2525,7 +2549,7 @@
           "hostname": "nl7.gw.ivpn.net",
           "dns_name": "nl7.gw.ivpn.net",
           "host": "95.211.95.22",
-          "load": 18.43,
+          "load": 16.12,
           "multihop_port": 22501,
           "obfs": {
             "obfs3_multihop_port": 22502,
@@ -2538,7 +2562,7 @@
           "hostname": "nl8.gw.ivpn.net",
           "dns_name": "nl8.gw.ivpn.net",
           "host": "95.211.172.18",
-          "load": 40.32,
+          "load": 56.74,
           "multihop_port": 22801,
           "obfs": {
             "obfs3_multihop_port": 22802,
@@ -2562,7 +2586,7 @@
           "hostname": "no1.gw.ivpn.net",
           "dns_name": "no1.gw.ivpn.net",
           "host": "194.242.10.150",
-          "load": 30.84,
+          "load": 40.6,
           "multihop_port": 25301,
           "obfs": {
             "obfs3_multihop_port": 25302,
@@ -2610,7 +2634,7 @@
           "hostname": "pt1.gw.ivpn.net",
           "dns_name": "pt1.gw.ivpn.net",
           "host": "94.46.175.112",
-          "load": 13.03,
+          "load": 13.32,
           "multihop_port": 27101,
           "obfs": {
             "obfs3_multihop_port": 27102,
@@ -2634,7 +2658,7 @@
           "hostname": "ro1.gw.ivpn.net",
           "dns_name": "ro1.gw.ivpn.net",
           "host": "37.120.206.50",
-          "load": 89.34,
+          "load": 65.14,
           "multihop_port": 22301,
           "obfs": {
             "obfs3_multihop_port": 22302,
@@ -2682,7 +2706,7 @@
           "hostname": "se1.gw.ivpn.net",
           "dns_name": "se1.gw.ivpn.net",
           "host": "80.67.10.138",
-          "load": 30.9,
+          "load": 32.73,
           "multihop_port": 24001,
           "obfs": {
             "obfs3_multihop_port": 24002,
@@ -2706,7 +2730,7 @@
           "hostname": "sg1.gw.ivpn.net",
           "dns_name": "sg1.gw.ivpn.net",
           "host": "185.128.24.186",
-          "load": 65.65,
+          "load": 35.37,
           "multihop_port": 26101,
           "obfs": {
             "obfs3_multihop_port": 26102,
@@ -2730,7 +2754,7 @@
           "hostname": "sk2.gw.ivpn.net",
           "dns_name": "sk2.gw.ivpn.net",
           "host": "156.146.40.202",
-          "load": 49.96,
+          "load": 62.54,
           "multihop_port": 20400,
           "obfs": {
             "obfs3_multihop_port": 20401,
@@ -2754,7 +2778,7 @@
           "hostname": "tw1.gw.ivpn.net",
           "dns_name": "tw1.gw.ivpn.net",
           "host": "185.189.160.6",
-          "load": 7.21,
+          "load": 5.38,
           "multihop_port": 20820,
           "obfs": {
             "obfs3_multihop_port": 20821,
@@ -2778,7 +2802,7 @@
           "hostname": "ua2.gw.ivpn.net",
           "dns_name": "ua2.gw.ivpn.net",
           "host": "91.232.28.126",
-          "load": 23.74,
+          "load": 16.72,
           "multihop_port": 20450,
           "obfs": {
             "obfs3_multihop_port": 20451,
@@ -2802,7 +2826,7 @@
           "hostname": "us-az1.gw.ivpn.net",
           "dns_name": "us-az1.gw.ivpn.net",
           "host": "193.37.254.130",
-          "load": 12.77,
+          "load": 6.62,
           "multihop_port": 26401,
           "obfs": {
             "obfs3_multihop_port": 26402,
@@ -2826,7 +2850,7 @@
           "hostname": "us-ca1.gw.ivpn.net",
           "dns_name": "us-ca1.gw.ivpn.net",
           "host": "173.254.196.58",
-          "load": 7.18,
+          "load": 9.13,
           "multihop_port": 22201,
           "obfs": {
             "obfs3_multihop_port": 22202,
@@ -2851,7 +2875,7 @@
           "hostname": "us-ca2.gw.ivpn.net",
           "dns_name": "us-ca2.gw.ivpn.net",
           "host": "69.12.80.146",
-          "load": 12.89,
+          "load": 5.38,
           "multihop_port": 22401,
           "obfs": {
             "obfs3_multihop_port": 22402,
@@ -2864,7 +2888,7 @@
           "hostname": "us-ca3.gw.ivpn.net",
           "dns_name": "us-ca3.gw.ivpn.net",
           "host": "198.54.129.99",
-          "load": 24.51,
+          "load": 5.6,
           "multihop_port": 21301,
           "obfs": {
             "obfs3_multihop_port": 21302,
@@ -2877,7 +2901,7 @@
           "hostname": "us-ca4.gw.ivpn.net",
           "dns_name": "us-ca4.gw.ivpn.net",
           "host": "173.254.204.202",
-          "load": 17.2,
+          "load": 7.69,
           "multihop_port": 21901,
           "obfs": {
             "obfs3_multihop_port": 21902,
@@ -2885,6 +2909,30 @@
             "obfs4_key": "2Sdam2VI658TdQRvj5bxwKPFljrsKgwBDv/mqhXNYgDQGs+WVhAz508b2oWVgHed3Ki8dQ"
           },
           "v2ray": "216.144.237.82"
+        }
+      ]
+    },
+    {
+      "gateway": "us-co.gw.ivpn.net",
+      "country_code": "US",
+      "country": "United States",
+      "city": "Denver, CO",
+      "latitude": 39.749,
+      "longitude": -104.997,
+      "isp": "Datapacket",
+      "hosts": [
+        {
+          "hostname": "us-co1.gw.ivpn.net",
+          "dns_name": "us-co1.gw.ivpn.net",
+          "host": "121.127.44.26",
+          "load": 7.79,
+          "multihop_port": 20560,
+          "obfs": {
+            "obfs3_multihop_port": 20561,
+            "obfs4_multihop_port": 20562,
+            "obfs4_key": "mupqY+RsAT5UMgL7i4LRuGwAE1xTC7/Y0bBN5SL05dGt0QTlT7oFex/MMjPx2sTBLRHZBQ"
+          },
+          "v2ray": "121.127.44.31"
         }
       ]
     },
@@ -2901,7 +2949,7 @@
           "hostname": "us-fl1.gw.ivpn.net",
           "dns_name": "us-fl1.gw.ivpn.net",
           "host": "173.44.49.90",
-          "load": 9.46,
+          "load": 16.67,
           "multihop_port": 24601,
           "obfs": {
             "obfs3_multihop_port": 24602,
@@ -2925,7 +2973,7 @@
           "hostname": "us-ga1.gw.ivpn.net",
           "dns_name": "us-ga1.gw.ivpn.net",
           "host": "104.129.24.146",
-          "load": 58.94,
+          "load": 50.58,
           "multihop_port": 24501,
           "obfs": {
             "obfs3_multihop_port": 24502,
@@ -2938,7 +2986,7 @@
           "hostname": "us-ga2.gw.ivpn.net",
           "dns_name": "us-ga2.gw.ivpn.net",
           "host": "107.150.22.74",
-          "load": 74.67,
+          "load": 19.82,
           "multihop_port": 24810,
           "obfs": {
             "obfs3_multihop_port": 24811,
@@ -2962,7 +3010,7 @@
           "hostname": "us-il1.gw.ivpn.net",
           "dns_name": "us-il1.gw.ivpn.net",
           "host": "107.150.28.82",
-          "load": 9.2,
+          "load": 17.82,
           "multihop_port": 21401,
           "obfs": {
             "obfs3_multihop_port": 21402,
@@ -2975,7 +3023,7 @@
           "hostname": "us-il2.gw.ivpn.net",
           "dns_name": "us-il2.gw.ivpn.net",
           "host": "72.11.137.146",
-          "load": 17.68,
+          "load": 11.51,
           "multihop_port": 24901,
           "obfs": {
             "obfs3_multihop_port": 24902,
@@ -2999,7 +3047,7 @@
           "hostname": "us-nj3.gw.ivpn.net",
           "dns_name": "us-nj3.gw.ivpn.net",
           "host": "23.226.128.18",
-          "load": 40.76,
+          "load": 10.34,
           "multihop_port": 21610,
           "obfs": {
             "obfs3_multihop_port": 21611,
@@ -3012,7 +3060,7 @@
           "hostname": "us-nj4.gw.ivpn.net",
           "dns_name": "us-nj4.gw.ivpn.net",
           "host": "194.36.111.50",
-          "load": 20.11,
+          "load": 20.32,
           "multihop_port": 27401,
           "obfs": {
             "obfs3_multihop_port": 27402,
@@ -3036,7 +3084,7 @@
           "hostname": "us-nv1.gw.ivpn.net",
           "dns_name": "us-nv1.gw.ivpn.net",
           "host": "185.242.5.34",
-          "load": 22.98,
+          "load": 14.84,
           "multihop_port": 26501,
           "obfs": {
             "obfs3_multihop_port": 26502,
@@ -3060,7 +3108,7 @@
           "hostname": "us-ny2.gw.ivpn.net",
           "dns_name": "us-ny2.gw.ivpn.net",
           "host": "212.103.48.194",
-          "load": 9.03,
+          "load": 21.01,
           "multihop_port": 21801,
           "obfs": {
             "obfs3_multihop_port": 21802,
@@ -3073,7 +3121,7 @@
           "hostname": "us-ny3.gw.ivpn.net",
           "dns_name": "us-ny3.gw.ivpn.net",
           "host": "89.187.178.144",
-          "load": 9.69,
+          "load": 35.05,
           "multihop_port": 27601,
           "obfs": {
             "obfs3_multihop_port": 27602,
@@ -3097,7 +3145,7 @@
           "hostname": "us-tx1.gw.ivpn.net",
           "dns_name": "us-tx1.gw.ivpn.net",
           "host": "96.44.189.194",
-          "load": 36.28,
+          "load": 14.36,
           "multihop_port": 21001,
           "obfs": {
             "obfs3_multihop_port": 21002,
@@ -3110,7 +3158,7 @@
           "hostname": "us-tx2.gw.ivpn.net",
           "dns_name": "us-tx2.gw.ivpn.net",
           "host": "96.44.142.74",
-          "load": 8.08,
+          "load": 17.58,
           "multihop_port": 25001,
           "obfs": {
             "obfs3_multihop_port": 25002,
@@ -3134,7 +3182,7 @@
           "hostname": "us-ut1.gw.ivpn.net",
           "dns_name": "us-ut1.gw.ivpn.net",
           "host": "198.105.216.28",
-          "load": 57.24,
+          "load": 51.46,
           "multihop_port": 24401,
           "obfs": {
             "obfs3_multihop_port": 24402,
@@ -3158,7 +3206,7 @@
           "hostname": "us-va1.gw.ivpn.net",
           "dns_name": "us-va1.gw.ivpn.net",
           "host": "37.19.206.105",
-          "load": 38.43,
+          "load": 43.79,
           "multihop_port": 27701,
           "obfs": {
             "obfs3_multihop_port": 27702,
@@ -3182,7 +3230,7 @@
           "hostname": "us-wa2.gw.ivpn.net",
           "dns_name": "us-wa2.gw.ivpn.net",
           "host": "198.44.131.3",
-          "load": 33.86,
+          "load": 8,
           "multihop_port": 27801,
           "obfs": {
             "obfs3_multihop_port": 27802,
@@ -3206,7 +3254,7 @@
           "hostname": "za1.gw.ivpn.net",
           "dns_name": "za1.gw.ivpn.net",
           "host": "169.150.238.103",
-          "load": 20.11,
+          "load": 6.06,
           "multihop_port": 20840,
           "obfs": {
             "obfs3_multihop_port": 20841,
